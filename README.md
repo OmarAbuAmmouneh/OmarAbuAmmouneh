@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Omar</h1>
+<h1 align="left">Hi 👋, I'm Omar</h1>
 <h3 align="center">A passionate self-taught software developer with an engineering background.</h3>
 
 - 🔭 I’m currently working on **Learning everything JavaScript, Contributing to open-source projects**
