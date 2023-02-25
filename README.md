@@ -1,8 +1,14 @@
 <h1 align="left">Hi 👋, I'm Omar</h1>
 <h3 align="left">A passionate self-taught software developer with an engineering background.</h3>
 
-- 🔭 I’m currently working on **Learning everything JavaScript, Contributing to open-source projects**
-
+ 
+```
+I’m currently workingOn = [
+      "Learning everything javascript",
+      "Learning everything UI/UX"
+      "Contributing to open-source"
+];
+```
 - 📫 How to reach me **omarabuammouneh@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
