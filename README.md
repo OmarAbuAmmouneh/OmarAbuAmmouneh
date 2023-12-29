@@ -4,8 +4,8 @@
  
 ```
 I’m currently workingOn = [
-      "Learning everything javascript",
-      "Learning everything UI/UX"
+      "Learning Docker and Kubernetes",
+      "Learning Reanimated",
       "Contributing to open-source"
 ];
 ```
